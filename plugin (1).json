@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "olachill-qwen-plugin",
+  "version": "1.0.0",
+  "description": "OlaChill: find and compare Japan travel services - tours, activities, attraction and transport tickets, ryokan on request, private airport transfers, cars with driver, charter buses, helicopter flights, golf and travel eSIM. Connects to OlaChill's public MCP server.",
+  "author": {
+    "name": "MIA Co., Ltd.",
+    "email": "partners@olachill.com",
+    "url": "https://olachill.com"
+  },
+  "homepage": "https://olachill.com",
+  "license": "MIT",
+  "keywords": ["travel", "japan", "tours", "tickets", "transfers", "charter-bus", "ryokan", "esim", "mcp"]
+}
